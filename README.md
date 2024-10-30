@@ -46,3 +46,6 @@ GROQ_API_KEY = your_groq_api_key
 ```
 streamlit run app.py
 ```
+### Demo picture
+![project](https://github.com/user-attachments/assets/26ca8a28-d5ec-42b7-98df-81df8c41fffa)
+
