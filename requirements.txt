@@ -1,0 +1,11 @@
+langchain
+langchain_community
+python-dotenv
+streamlit
+unstructured
+faiss-cpu
+libmagic
+ipykernel
+langchain-groq
+sentence-transformers
+langchain_huggingface
